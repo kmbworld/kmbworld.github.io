@@ -1,4 +1,5 @@
 # Data and Business Analyst
+[LinkedIn](www.linkedin.com/in/kayla-berg-74203a222)
 
 ### SQL
 
