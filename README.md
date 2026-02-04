@@ -7,6 +7,7 @@ SQL, Python, R, Tableau
 ### R
 Higher Education Research and Development (HERD) Survey 2024, Table 1
 [Higher Education Research and Development R Markdown Document.pdf](https://github.com/user-attachments/files/25059162/Higher.Education.Research.and.Development.R.Markdown.Document.pdf)
+<img width="762" height="621" alt="Rplot" src="https://github.com/user-attachments/assets/6187be41-4b5d-49ce-8c71-2adbc67708c3" />
 
 ### Tableau
 [Sponsored Research Funding Totals by Funding Year - University of Colorado Boulder](https://public.tableau.com/views/CUBSponsoredResearchFundingbyYear/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
